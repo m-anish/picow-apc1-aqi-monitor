@@ -27,6 +27,7 @@ This project enables the Raspberry Pi Pico W to:
 - Required Python libraries: 
   - `Microdot`
   - `Microdot.utemplate`
+  - `APC1`
 
 ---
 
@@ -94,7 +95,7 @@ Once connected to Wi-Fi:
 Listed in the `requirements.txt` file:
 - `microdot`
 - `microdot-utemplate`
--  apc1 (https://github.com/m-anish/APC1)
+-   apc1 (https://github.com/m-anish/APC1)  
 
 ---
 
